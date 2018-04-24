@@ -48,7 +48,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/brandski-logo-bacon-jam-speck-marmelade-nurnberg-128x138.png",
     "noImageResize": "",
     "cookiesAlert": "Unsere Webseite verwendet Cookies, um dir ein angenehmeres Surfen zu ermöglichen. <a href='datenschutz.html'>Mehr Informationen dazu findest du hier</a>.",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-118141420-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-118141420-1');\r\n</script>",
     "sitemapSwitcher": "on"
   },
   "pages": {
